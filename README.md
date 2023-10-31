@@ -10,3 +10,8 @@ The Course is about Data Structures.
 
 **Tools:** `Visual Studio`, `Visual Studio Code`.
 
+--- 
+
+## `Certificate`
+
+![Certificate](/12.%20Data%20Structures%20-%20Level1.jpg)
